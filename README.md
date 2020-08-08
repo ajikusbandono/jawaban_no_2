@@ -12,6 +12,8 @@ Pattern : Xpath
 
 Result : Price and Product
 
+File type : csv
+
 Explode target : 
 
 			<div class="widget-price mb-8">
