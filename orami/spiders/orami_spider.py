@@ -6,7 +6,7 @@
 """ 
 --- Export as CSV Feed ---
 FEED_FORMAT = "csv"
-FEED_URI = "result.csv"
+FEED_URI = "result.csv" 
 --- save in settings.py ---
 """
 import scrapy
