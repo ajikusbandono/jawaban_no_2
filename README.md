@@ -29,6 +29,8 @@ Explode target :
       
 How to use : just add url category into array list on orami_spider.py under orami/spider path or put single root url
 
-How to run : 1. goto directory and put this line -> scrapy crawl orami
-             2. you can file output csv automatically on directory
+How to run : 
+	     1. goto directory and put this line -> scrapy crawl orami
+             
+	     2. you can file output csv automatically on directory
 	  
