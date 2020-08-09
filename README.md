@@ -10,7 +10,9 @@ Target crawling : www.orami.co.id
 
 Pattern : Xpath
 
-Result : Price and Product
+Result : Price, Product and link
+
+Validation : pivot in excel for crawling validation 
 
 File type : csv
 
@@ -25,5 +27,8 @@ Explode target :
 				Takoyakids Minori Sets Steel Blue                </a>
 			</div>      
       
-How to use : just add url category into array list on orami_spider.py under orami/spider path
+How to use : just add url category into array list on orami_spider.py under orami/spider path or put single root url
 
+How to run : 1. goto directory and put this line -> scrapy crawl orami
+             2. you can file output csv automatically on directory
+	  
